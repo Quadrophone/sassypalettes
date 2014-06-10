@@ -1640,13 +1640,13 @@ h1 {
     width: 100%;
     display: block;
     height: 100px;
-    margin-bottom: 3em;
+    margin-bottom: 4em;
     clear: both;
     float: none; }
     #palettes li div {
       width: 20%;
       float: left;
-      height: 50px; }
+      height: 75px; }
 
 .get-sass, .get-sass:active, .get-sass:visited {
   background: #666;
