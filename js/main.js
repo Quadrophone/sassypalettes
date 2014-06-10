@@ -25,7 +25,7 @@ $(document).ready(function() {
         });
         console.log(sasscolors);
         $('.modal').html(
-            '<a href="#" id="close">x</a><span>$primary-color: #' + sasscolors[0] + ';</span><span>$secondary-color: #' + sasscolors[1] + ';</span><span>$third-color: #' + sasscolors[2] + ';</span><span>$fourth-color: #' + sasscolors[3] + ';</span><span>$fifth-color: #' + sasscolors[1] + ';</span>'
+            '<a href="#" id="close">x</a><span>$primary-color: #' + sasscolors[0] + ';</span><span>$secondary-color: #' + sasscolors[1] + ';</span><span>$third-color: #' + sasscolors[2] + ';</span><span>$fourth-color: #' + sasscolors[3] + ';</span><span>$fifth-color: #' + sasscolors[4] + ';</span>'
         ).show();
         $('.overlay').show();
     });
